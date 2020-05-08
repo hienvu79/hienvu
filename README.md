@@ -1,5 +1,6 @@
-# Hello Word
-Welcome to Hello Word!
+# Hello Word!
+# HELLO WORD!
+## Cách để chuyển đổi tất cả các ký tự trong một chuỗi về dạng chữ in hoa.
 ```
 <body>
 <p id="demo"></p>
